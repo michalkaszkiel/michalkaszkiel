@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michalkaszkiel
 - 👀 I'm intrested in self development
 - ![nvidia](https://img.shields.io/badge/Nvidia-000000?style=for-the-badge&logo=Nvidia&logoColor=white)RTX 3060 Mobile on board
-- - In love with ![alfaromeo](https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=white) cars.
+- - In love with ![alfaromeo](https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=black) cars.
 - 🌱 I’m currently learning Web development with WD22E12 at DCI
 - 📫 How to reach me https://www.instagram.com/blessska/
 
