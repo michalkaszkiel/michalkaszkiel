@@ -6,6 +6,8 @@
 
 
  - In love with ![alfaromeo](https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red) cars.
+
+   
 I have honed my skills in HTML, CSS, JavaScript, and React, complemented by intensive backend coursework.
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,git)](https://skills.thijs.gg) 
 <!---
