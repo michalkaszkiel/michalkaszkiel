@@ -9,6 +9,8 @@
 
    
 I have honed my skills in HTML, CSS, JavaScript, and React, complemented by intensive backend coursework.
+
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,git)](https://skills.thijs.gg) 
 <!---
 michalkaszkiel/michalkaszkiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
