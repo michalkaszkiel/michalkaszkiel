@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @michalkaszkiel
-- ( ͡• ͜ʖ ͡•) I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape.
-- ![nvidia](https://img.shields.io/badge/Nvidia-000000?style=for-the-badge&logo=Nvidia&logoColor=white,green)RTX 3060 Mobile on board
-- 🌱 I’m currently learning Web development with WD22E12 at DCI
-- 📫 How to reach me www.linkedin.com/in/michał-kaszkiel-11mk11
+![Michal](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/b6328fd6-dde0-4f0d-8fe6-17a629e529c0)
+<h1 align="center">Hi 👋, I'm Michal Kaszkiel
+
+
+</h1>
+<h3 align="center">
+ I build responsive, scalable, and dynamic websites and web applications
+using React and Vanilla JS.</h3>
+<p> I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :)</p>
+
+- 🌱 Web developer from Digital Career Institute 22E12.
+- 🎰 Willing to learn Federated Learning 
 
 
  - In love with ![alfaromeo](https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red) cars.
